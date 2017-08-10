@@ -12,6 +12,7 @@ import com.example.repository.StudentRepository;
 
 @SpringBootApplication
 public class StudentApplication {
+	// Comments in Spring Main File
 	private static final Logger logger = LoggerFactory.getLogger(StudentApplication.class);
 
 
